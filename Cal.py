@@ -56,8 +56,8 @@ def welcome():
     print(BOLDCYAN +"\\  /\\  / |___| |___| \\__/\\ \\_/ / |  | || |___ " )
     print(BOLDCYAN +" \\/  \\/\\____/\\_____/\\____/\\___/\\_|  |_/\\____/ " )
                                               
-    print(MAGENTA +"Powered by " + WHITE + "C H W " + MAGENTA + ":)" )
-    print(BOLDCYAN + "Bug feedback: " + BrightWhite + "c.hw@me.com")
+    print(MAGENTA +"Powered by " + WHITE + "X P D & C H W " + MAGENTA + ":)" )
+    print(BOLDCYAN + "Bug feedback: " + BrightWhite + "pengdaxie123@gmail.com & c.hw@me.com")
 
 def color_print(color, text):
     print("{}{}{}".format(color, text, NC))
